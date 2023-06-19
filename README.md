@@ -1,9 +1,9 @@
 # Praktikum 10: Pagination dan Pencarian
 
 ```bash
-Nama    : Nurul Najwa Sabilla
+Nama    : Irgi Jaelani
 Kelas   : TI.21.A.3
-Nim     : 312110451
+Nim     : 312110618
 ```
 
 ## Output
@@ -16,33 +16,21 @@ Output terbaru dengan adanya tampilan pagination dan Pencarian
 
 1. Sign In u/ Admin
 
-![sign in](images/sign-in.png)
+![sign in](images/sign.png)
 
 2. Halaman Artikel Admin Terbaru dengan Tampilan Pagination & Pencarian
 
-![portal admin](images/portal-admin-artikel-pagination.png)
+![portal admin](images/portal-admin.png)
 
-3. Pencarian Data Artikel dengan Mengisi TextField
+3. Tambah Artikel Terbaru
 
-![cari data](images/cari-data.png)
-
-4. Contoh Pencarian Data akan Menampilkan Data yang Dituju
-
-![Artiekl 9](images/Artikel-ke9.png)
-
-![Artikel 9](images/Artikel-ke9-ditambah.png)
-
-5. Tambah Artikel Terbaru
-
-![add artikel](images/add-artikel-terbaru.png)
-
-6. Ubah Data Artikel Terbaru
-
-![ubah data](images/ubah-data.png)
-
-7. Hapus Artikel Terbaru
-
-![hapus data](images/hapus-data-terbaru.png)
+![add artikel](images/Tambah-artikel.png)
 
 
-## Terimkasih(●'◡'●)
+4. Pencarian Data Artikel dengan Mengisi TextField
+
+![cari data](images/cari-artikel.png)
+
+
+
+## Terimkasih
